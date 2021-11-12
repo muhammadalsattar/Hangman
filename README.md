@@ -1,6 +1,6 @@
 # Hangman
 
-Hangman is a puzzle game. I've created this app as part of **The Modern JavaScript Bootcamp** course.
+Hangman is a puzzle game. I've created this app as part of **The Modern JavaScript Bootcamp** course by Andrew Mead.
 
 After cloning the repository, run these commands:
 - npm i
