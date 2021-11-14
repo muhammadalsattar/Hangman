@@ -1,9 +1,9 @@
 # Hangman
 
-Hangman is a puzzle game. I've created this app as part of **The Modern JavaScript Bootcamp** course by Andrew Mead.
+### As part of Kalbonyan Almarsos program and The Modern JavaScript Bootcamp by Andrew Mead, I've built, Hangman, a word guessing game. 
 
-After cloning the repository, run these commands:
-- npm i
-- npm run dev-server
+##### To get the application up and running locally, run these commands:
+###### - npm i
+###### - npm run dev-server
 
-Visit the app: [Hangman](https://hangame.netlify.app/).
+#### Visit: [Hangman](https://hangame.netlify.app/).
