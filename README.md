@@ -6,4 +6,4 @@
 ###### - npm i
 ###### - npm run dev-server
 
-#### Visit: [Hangman](https://hangame.netlify.app/).
+#### Visit [Hangman](https://hangame.netlify.app/).
